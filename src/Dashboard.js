@@ -1,8 +1,8 @@
 import React from "react";
-export default function Home() {
+export default function Dashboard() {
     return (
       <div>
-        <h2>Home</h2>
+        <h2>Dashboard</h2>
       </div>
     );
   }
